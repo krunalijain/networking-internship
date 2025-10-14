@@ -22,7 +22,12 @@ Under Unicast Routing Protocols we have 2 sub sections - Intradomain and Interdo
 **Interdomain**- Any connection of devices made outside an organisation's network. Connection of device in different networks.
 
 
-Later on, Intradomain and Interdomain routing protocols are further classified with these protocols - RIP, OSPF, EIGRP and BGP.
-Intradomain includes -> RIP, OSPF, EIGRP.
-Interdomain includes -> BGP.
+Later on, Intradomain and Interdomain routing protocols are further classified with these protocols - **RIP, OSPF, EIGRP and BGP**.
 
+**Intradomain includes -> RIP, OSPF, EIGRP.**
+
+**Interdomain includes -> BGP.**
+
+View below routing protocol chart:
+
+![Routing Protocol Chart](C:\Users\kjain53\Downloads\Network Interns)
