@@ -16,8 +16,11 @@ Mainly, the routing protocols are divided into 4 types. They are as below:
 
 Now that we are aware of different types of Routing Protocols, let's deep dive into various Unicast Routing Protocols.
 Under Unicast Routing Protocols we have 2 sub sections - Intradomain and Interdomain Routing Protocols.
-**Intradomain**- Any connection of devices made wihtin a single network or single organisation's network 
+
+**Intradomain**- Any connection of devices made wihtin a single network or single organisation's network.
+
 **Interdomain**- Any connection of devices made outside an organisation's network. Connection of device in different networks.
+
 
 Later on, Intradomain and Interdomain routing protocols are further classified with these protocols - RIP, OSPF, EIGRP and BGP.
 Intradomain includes -> RIP, OSPF, EIGRP.
