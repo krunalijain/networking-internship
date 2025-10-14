@@ -9,4 +9,5 @@ The goal of this repository is to consolidate theoretical knowledge with practic
 
 ## Weekly Documentation
 [Week 1](https://github.com/krunalijain/networking-internship/blob/main/Journal%20/Week%201.md)
+[Week 2] ()
  
