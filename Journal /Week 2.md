@@ -28,6 +28,9 @@ Later on, Intradomain and Interdomain routing protocols are further classified w
 
 **Interdomain includes -> BGP.**
 
-View below routing protocol chart:
+## Routing Protocol Chart
 
 ![C:\Users\kjain53\Downloads\Network Interns](https://github.com/krunalijain/networking-internship/blob/main/Assets/Screenshot%202025-10-14%20160311.jpg))
+
+
+## RIP - Routing Information Protocol
