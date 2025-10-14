@@ -4,10 +4,15 @@
 It is standard form used to transfer data from a device in one network to another device in another network. To communicate devices in different networks (or in same) we use various routing protocols based on the scenarios. 
 
 Mainly, the routing protocols are divided into 4 types. They are as below:
+
 **1) Unicast** - Connecting one to one device.
-**2) Broadcast**- Single device trying to send data to all the devices in a network
+
+**2) Broadcast**- Single device trying to send data to all the devices in a network.
+
 **3) Multicast** - Single device sending data to multiple (only Selected) devices in a network.
+
 **4) Anycast** - Single device sending data any one device in whole network.
+
 
 Now that we are aware of different types of Routing Protocols, let's deep dive into various Unicast Routing Protocols.
 Under Unicast Routing Protocols we have 2 sub sections - Intradomain and Interdomain Routing Protocols.
