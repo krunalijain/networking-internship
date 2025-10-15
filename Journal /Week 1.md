@@ -10,6 +10,10 @@ On Day 1 of our Netwokring Internship, we brushed networking basics with the fol
 - Additionally, we went through some performance issues in network: Network Congestion, Conneciton Reliability and Bandwidth limitations.
 
 
+```
+command formatting for any commands / code
+```
+
 ## Day 2
 
 ## Refernces
