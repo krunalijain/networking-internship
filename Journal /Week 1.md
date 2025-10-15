@@ -12,7 +12,10 @@ On Day 1 of our Netwokring Internship, we brushed networking basics with the fol
 
 ```
 command formatting for any commands / code
+sscsc
+csc
 ```
+`https` -  secure web connection
 
 ## Day 2
 
